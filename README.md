@@ -68,7 +68,7 @@ You agree to:
 TO THE MAXIMUM EXTENT PERMITTED BY LAW:
 
 - WE WILL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES; OR FOR ANY LOSS OF PROFITS, REVENUE, BUSINESS, GOODWILL, DATA, OR USE; OR COST OF SUBSTITUTE GOODS OR SERVICES; EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-- OUR TOTAL LIABILITY FOR ANY CLAIMS ARISING OUT OF OR RELATED TO THE SERVICE WILL NOT EXCEED THE GREATER OF: (A) THE AMOUNTS YOU PAID US (IF ANY) FOR THE SERVICE IN THE 12 MONTHS BEFORE THE EVENT GIVING RISE TO LIABILITY; OR (B) USD $100.
+- OUR TOTAL LIABILITY FOR ANY CLAIMS ARISING OUT OF OR RELATED TO THE SERVICE WILL NOT EXCEED THE GREATER OF: (A) THE AMOUNTS YOU PAID US (IF ANY) FOR THE SERVICE IN THE 12 MONTHS BEFORE THE EVENT GIVING RISE TO LIABILITY; OR (B) USD $1.
 - THESE LIMITATIONS APPLY REGARDLESS OF THE THEORY OF LIABILITY (CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY, OR OTHERWISE) AND EVEN IF A REMEDY FAILS OF ITS ESSENTIAL PURPOSE.
 
 ## 11. Indemnification
@@ -91,7 +91,7 @@ You agree not to:
 ## 14. Termination
 
 - You may stop using the Service at any time. We may suspend or terminate your access immediately if you violate these Terms or if we reasonably believe your use poses risk.
-- Upon termination, sections that by their nature should survive (including 1–5 and 8–22) will survive.
+- Upon termination, sections that by their nature should survive (including 1–5 and 8–21) will survive.
 
 ## 15. Electronic Communications and Signatures
 
@@ -142,7 +142,5 @@ If you downloaded the app from an app store (e.g., Apple App Store), you also ag
 - Disputes are subject to binding arbitration and a class action waiver (with a limited opt-out).
 
 ---
-
-Note: This template is provided for your convenience and is not legal advice. Consider consulting a licensed attorney in California to tailor these Terms to your specific business.
 
 
